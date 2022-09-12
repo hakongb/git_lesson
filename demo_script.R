@@ -18,3 +18,5 @@ y <- rnorm(300)
 
 # Crazy stuff
 >>>>>>> crazy-idea
+
+# Some more work for github

@@ -20,3 +20,5 @@ y <- rnorm(300)
 >>>>>>> crazy-idea
 
 # Some more work for github
+
+# Offline edit

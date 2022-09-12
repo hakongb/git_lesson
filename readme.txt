@@ -2,5 +2,5 @@ Readme file
 
 
 
-Edited by my collegue
+Edited by my colleague - colleague 
 Edit again
